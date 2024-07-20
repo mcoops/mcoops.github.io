@@ -27,6 +27,8 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mcoops
+title_separator: "|"
+description: "A blog by mcoops about IoT and programming"
 
 
 # Build settings
