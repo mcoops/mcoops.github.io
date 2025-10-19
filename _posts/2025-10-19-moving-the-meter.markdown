@@ -16,8 +16,8 @@ Same rules apply as before:
 The only difference this time around is that the new water meter is really far
 away, doesn't flood, and the meter itself is closer to the lid.
 
-<a href="/assets/images/waterUsage/sensor.jpeg">
-  ![Image](/assets/images/waterUsage/sensor.jpeg){: width="450" }
+<a href="/assets/images/waterMove/sensor.jpeg">
+  ![Image](/assets/images/waterMove/sensor.jpeg){: width="450" }
 </a>
 
 Same idea though - a piece of aluminium just to hold the sensor in place
@@ -112,6 +112,6 @@ mode: single
 
 That's it, we're back in action.
 
-<a href="/assets/images/waterUsage/newGraph.png">
-  ![Image](/assets/images/waterUsage/newGraph.png){: width="450" }
+<a href="/assets/images/waterMove/newGraph.png">
+  ![Image](/assets/images/waterMove/newGraph.png){: width="450" }
 </a>
